@@ -2,6 +2,7 @@ A modern, interactive expense tracking web application built with React (Vite + 
 It helps users record expenses, apply filters, and visualize spending trends with dynamic charts.
 
 🚀 Features
+
 ➕ Add, edit, and delete expenses with category and date selection
 🎯 Filter expenses by category and date range
 📊 Interactive charts to visualize spending trends
