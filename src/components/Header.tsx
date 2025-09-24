@@ -13,8 +13,8 @@ const Header = () => {
               </div>
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-foreground">ExpenseTracker</h1>
-              <p className="text-sm text-muted-foreground">Smart expense management</p>
+              <h1 className="text-2xl font-bold text-foreground">BudgetBuddy</h1>
+              <p className="text-sm text-muted-foreground">Smart expense management tracker</p>
             </div>
           </div>
           
